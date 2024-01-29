@@ -17,10 +17,18 @@ button {
     background: #5f9341;
     color: white;
     padding: 10px 20px;
-    border: none;
+    border: 1px solid #5f9341;
     font-weight: bold;
 }
 
+<<<<<<< HEAD
+#delete-btn {
+    background: white;
+    color: #5f9341;
+}
+
+=======
+>>>>>>> 598fa18834dc86a8e2b821dcb677d26f6be96fce
 ul {
     margin-top: 20px;
     list-style: none;
@@ -34,3 +42,8 @@ li {
 a {
     color: #5f9341;
 }
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 598fa18834dc86a8e2b821dcb677d26f6be96fce

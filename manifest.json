@@ -1,9 +1,20 @@
 {
     "manifest_version": 3,
+<<<<<<< HEAD
+    "version": "1.0",
+=======
     "version": "1.1",
+>>>>>>> 598fa18834dc86a8e2b821dcb677d26f6be96fce
     "name": "Leads tracker",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
+<<<<<<< HEAD
+    },
+    "permissions": [
+        "tabs"
+    ]
+=======
     }
+>>>>>>> 598fa18834dc86a8e2b821dcb677d26f6be96fce
 }
